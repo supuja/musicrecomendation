@@ -20,7 +20,7 @@ $q=$row['artist'];
 	mysql_query("insert into naive(song,artist,genre,eras) values('$p','$q','$r','$s')");
   }
 }
-echo "<a href='5.php'>survey review</a>";
+echo "<a href='recommend_songs.php'>survey review</a>";
 }
 ?>
 </body>
