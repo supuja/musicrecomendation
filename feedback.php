@@ -45,6 +45,6 @@ echo "<script type='text/javascript' src='https://www.google.com/jsapi'></script
 
 
 <div id="piechart3_3d" style="width: 900px; height: 500px;"></div>
-<a href="main.php" style="color:white;">Take another survey if you wish</a>
+<a href="display.php" style="color:white;">Take another survey if you wish</a>
 </body>
 </html>
