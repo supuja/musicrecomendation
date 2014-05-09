@@ -65,7 +65,7 @@ left: 43px;}
 </style>
 </head>
 <body>
-<form name="songs" action="2.php" method="POST" >
+<form name="songs" action="display2.php" method="POST" >
 <p><input type="checkbox" name="chckbox[]" value="tum hi ho" id="slideThree" />Tum hi ho</input></p>
 <p><input type="checkbox" name="chckbox[]" value="balma" id="slideThree"/>balma</input></p>
 <p><input type="checkbox" name="chckbox[]" value="bahara" id="slideThree"/>Bahara re</input></p>
