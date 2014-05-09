@@ -8,7 +8,7 @@
 <p><input type="checkbox" name="chckbox[]" value="deewana"/>deewana</input></p>
 <p><input type="checkbox" name="chckbox[]" value="kal ho na ho"/>kal ho na ho</input></p>
 <p><input type="checkbox" name="chckbox[]" value="dhoom"/>dhoom</input></p>
-<p><input type="checkbox" name=”chckbox[]" value="sur"/>sur</input></p>
+<p><input type="checkbox" name="chckbox[]" value="sur"/>sur</input></p>
 <p><input type="checkbox" name="chckbox[]" value="sajde"/>sajde</input></p>
 <p><input type="checkbox" name="chckbox[]" value="guzzarish"/>guzzarish</input></p>
 <p><input type="checkbox" name="chckbox[]" value="earth song"/>earth song</input></p>
