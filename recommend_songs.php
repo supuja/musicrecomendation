@@ -251,7 +251,7 @@ foreach($dups1 as $key=>$val)
 }
 }
 ?>
-<form id="feedback" action="fb.php" method="POST" >
+<form id="feedback" action="feedback.php" method="POST" >
 <?php
  
 $dis=mysql_query("SELECT DISTINCT song FROM display");
