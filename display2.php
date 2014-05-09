@@ -24,7 +24,7 @@ mysql_query("delete from naive");
  {
 	echo "<a href='display3.php'>select more songs</a>";
   }
- else{ echo "<a href='5.php'>survey review</a>";}
+ else{ echo "<a href='recommend_songs.php'>survey review</a>";}
 }?>
 </body>
 </html>  
