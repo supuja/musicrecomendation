@@ -22,7 +22,7 @@ mysql_query("delete from naive");
  }
   if($n<7)
  {
-	echo "<a href='3.php'>select more songs</a>";
+	echo "<a href='display3.php'>select more songs</a>";
   }
  else{ echo "<a href='5.php'>survey review</a>";}
 }?>
