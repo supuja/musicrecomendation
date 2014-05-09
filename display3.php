@@ -2,7 +2,7 @@
 <head>
 </head>
 <body>
-<form name="songs" action="4.php" method="POST" >
+<form name="songs" action="insert_db.php" method="POST" >
 <p><input type="checkbox" name="chckbox[]" value="raabta" />raabta</input></p>
 <p><input type="checkbox" name="chckbox[]" value="chikni chameli"/>chikni chameli</input></p>
 <p><input type="checkbox" name="chckbox[]" value="deewana"/>deewana</input></p>
