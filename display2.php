@@ -18,7 +18,7 @@ mysql_query("delete from naive");
  	$r=$row['genre'];
  	$s=$row['eras'];
 	mysql_query("insert into naive(song,artist,genre,eras) values('$p','$q','$r','$s')");
-  }
+        }
  }
   if($n<7)
  {
