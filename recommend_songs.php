@@ -253,8 +253,7 @@ foreach($dups1 as $key=>$val)
 ?>
 <form id="feedback" action="feedback.php" method="POST" >
 <?php
- 
-$dis=mysql_query("SELECT DISTINCT song FROM display");
+ $dis=mysql_query("SELECT DISTINCT song FROM display");
 $rows = mysql_num_rows($dis);
 while($row=mysql_fetch_array($dis))
 {echo "<p></p>";echo "<p style='color:white;'>".$row['song']."<input type='checkbox' name='a[]'/></p>";}
