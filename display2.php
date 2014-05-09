@@ -27,5 +27,5 @@ mysql_query("delete from naive");
  else{ echo "<a href='recommend_songs.php'>survey review</a>";}
 }?>
 </body>
-</html>  
+</html>
 
